@@ -1,64 +1,88 @@
-# 👋 Hey there, I'm Tshiamo Justice Mothokho
+# 👋 Hi, I'm Tshiamo Mothokho!
 
-I'm a software developer with a strong foundation in full-stack development — from crafting RESTful APIs in Django, FastAPI, and ASP.NET Web API to building sleek UIs with React, Next.js, and Tailwind CSS. I’m deeply passionate about clean architecture, microservices, and scalable backend systems.
-
-I’m currently working on:
-- 🏫 `university-api` – FastAPI project modeled after clean ASP.NET structure.
-- 🎓 `SchoolManagementSystem` – ASP.NET microservices project with Docker + Ocelot Gateway.
-- 🛠️ Automating deployments using Azure DevOps and GitHub Actions.
+🎓 Information Technology Student (Cum Laude) at Nelson Mandela University  
+💻 Software Developer | DevOps Enthusiast | Full-Stack Engineer  
+📍 Pretoria, South Africa  
+🌐 [LinkedIn](https://linkedin.com/in/tj-mothokho) • [Portfolio (Coming Soon)](#) • 📫 tshiamomothokho@gmail.com
 
 ---
 
-## 🌍 About Me
-- 🎓 University graduate, Diploma in Information Technology, majored in Software Development (CUM LAUDE)  
-- 🛠️ I build with Django, FastAPI, ASP.NET Web api & MVC, React, Next.js, and Docker  
-- 🧠 I love solving real-world problems through clean code and structured systems  
-- 💬 I believe **"Asking for help is a superpower"**, not a weakness  
-- 🧪 Always exploring new things: DSA, CI/CD, cloud, and containerization
+## 🛠 Tech Stack
 
----
-
-## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tj-mothokho)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tshiamomothokho@email.com)
-
----
-
-## 💻 Tech Stack
-
-### 🧠 Backend:
+### 🚀 Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+### 💻 Web & Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### 🧱 Backend & APIs
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-### 🌐 Frontend:
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Shadcn/ui](https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square)
-
-### ⚙️ DevOps / Tools:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### ☁️ DevOps & Tools
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 🧠 Currently Learning
-- Advanced Data Structures and Algorithms (python & C#)
-- Microservices architecture with Docker and API Gateway
-- Azure DevOps: Boards, Pipelines, Artifacts
+## 🚧 Currently Building
+
+### 🏥 Hospital Management System (WIP)
+> A full-featured, production-grade Hospital System using:
+- **Microservices** architecture
+- **Clean Architecture** principles
+- **ASP.NET Core Web API**
+- **Docker + Azure DevOps CI/CD**
+- Future plans include **Ocelot Gateway**, **JWT Auth**, and **gRPC/RabbitMQ** for service communication
+
+Stay tuned — this is my biggest project yet!
 
 ---
 
-## 📈 GitHub Stats
+## 📂 Highlight Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TJ-Mothokho&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TJ-Mothokho&layout=compact&theme=radical" />
-</p>
+- **🍽 Recipe System:** Full-stack app using React + .NET + MS SQL + Azure Hosting  
+- **💎 Diamond Price Prediction:** ML project using Pandas, Scikit-Learn, and Seaborn  
+- **📊 University Admin API (WIP):** FastAPI backend modeled after ASP.NET architecture
+
+> 👉 Check out the pinned repositories below for source code and updates.
+
+---
+
+## 🏆 Achievements
+
+- 🎓 11 Distinctions | GPA: 3.85  
+- 🎓 Student Merit Bursary 2023 & 2024  
+- 📜 Completed Azure DevOps & CCNA Intro Courses  
+- 🏅 Active contributor & open-source learner
+
+---
+
+## 📫 Get in Touch
+
+I'm always open to collaboration, internship opportunities, and feedback!
+
+- Email: **tshiamomothokho@gmail.com**
+- GitHub: [@TJ-Mothokho](https://github.com/TJ-Mothokho)
+- LinkedIn: [TJ Mothokho](https://linkedin.com/in/tj-mothokho)
+- ## 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tj-mothokho)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tshiamomothokho@email.com)
+
+---
+
+> 💡 _"Learning never exhausts the mind."_ – Leonardo da Vinci
