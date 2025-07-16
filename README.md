@@ -26,8 +26,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ### ☁️ DevOps & Tools
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
@@ -76,12 +74,9 @@ Stay tuned — this is my biggest project yet!
 
 I'm always open to collaboration, internship opportunities, and feedback!
 
-- Email: **tshiamomothokho@gmail.com**
-- GitHub: [@TJ-Mothokho](https://github.com/TJ-Mothokho)
-- LinkedIn: [TJ Mothokho](https://linkedin.com/in/tj-mothokho)
-- ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tj-mothokho)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tshiamomothokho@email.com)
+- GitHub: [@TJ-Mothokho](https://github.com/TJ-Mothokho)
 
 ---
 
